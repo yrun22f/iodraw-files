@@ -10,8 +10,8 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-80" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-90" width="120" height="60" as="geometry" />
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-90" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="20" y="170" width="60" height="120" as="geometry" />
