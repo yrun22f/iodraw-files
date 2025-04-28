@@ -88,7 +88,7 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-34" value="&lt;b&gt;部门管理员&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="-90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Atb_AMpKM3rlB9z0BPRR-24" target="Atb_AMpKM3rlB9z0BPRR-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="40" as="sourcePoint" />
             <mxPoint x="590" y="-10" as="targetPoint" />
