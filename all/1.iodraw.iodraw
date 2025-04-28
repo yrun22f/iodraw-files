@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-1" value="企业OA系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-1" value="&lt;b&gt;企业OA系统&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="-260" width="225" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-33" value="&lt;b&gt;员工&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="-90" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-34" value="部门管理员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-34" value="&lt;b&gt;部门管理员&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="-90" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
