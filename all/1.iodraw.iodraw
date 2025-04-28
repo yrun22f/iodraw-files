@@ -85,7 +85,7 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-33" value="员工" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="-90" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-34" value="部门管理员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="-90" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
