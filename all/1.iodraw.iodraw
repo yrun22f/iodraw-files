@@ -46,7 +46,7 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-15" value="会议管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1130" y="170" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-16" value="管理员功能" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-16" value="&lt;b&gt;管理员功能&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1050" y="170" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-17" value="&lt;b&gt;考勤管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-18" value="公告管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="890" y="170" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-19" value="&lt;b&gt;个人中心&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-19" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="810" y="170" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
