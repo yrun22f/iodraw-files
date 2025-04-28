@@ -46,7 +46,7 @@
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-15" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1130" y="170" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-16" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="Atb_AMpKM3rlB9z0BPRR-16" value="管理员功能" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1050" y="170" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-17" value="考勤管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
