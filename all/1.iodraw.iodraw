@@ -45,6 +45,11 @@
             <mxPoint x="230" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DhxFF8M0h1gyQfGGep02-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhxFF8M0h1gyQfGGep02-10">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DhxFF8M0h1gyQfGGep02-11" value="进行修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
