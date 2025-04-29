@@ -67,14 +67,14 @@
             <mxPoint x="410" y="320" as="sourcePoint" />
             <mxPoint x="460" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="480" />
+              <mxPoint x="630" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9ZbWPBqRlk-4xOySl1BD-1" value="发放成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ZbWPBqRlk-4xOySl1BD-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9ZbWPBqRlk-4xOySl1BD-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ZbWPBqRlk-4xOySl1BD-1" target="G2kU17yOA6e_WED_52gM-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="500" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
