@@ -13,7 +13,7 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-5" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-6" value="请假日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-6" value="申请签退时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-7" value="审批人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
