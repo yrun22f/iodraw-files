@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DQF6qNQB_3lHNLLAsJgR-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="30" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="30" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQF6qNQB_3lHNLLAsJgR-2" value="工作台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQF6qNQB_3lHNLLAsJgR-3" value="是否进行签到" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="240" width="80" height="80" as="geometry" />
@@ -41,6 +41,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DQF6qNQB_3lHNLLAsJgR-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQF6qNQB_3lHNLLAsJgR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
