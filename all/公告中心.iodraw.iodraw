@@ -14,10 +14,10 @@
           <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-6" value="是否需要报销" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="80" height="80" as="geometry" />
