@@ -57,6 +57,9 @@
         <mxCell id="_XAfpX90kOjaLsdsHUYh-33" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="840" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
