@@ -10,6 +10,9 @@
         <mxCell id="G2kU17yOA6e_WED_52gM-2" value="薪资管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G2kU17yOA6e_WED_52gM-3" value="薪资是否发放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
