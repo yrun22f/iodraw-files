@@ -14,7 +14,7 @@
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-4" value="补卡申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-5" value="加班申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-19" value="提交部门管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-3" target="_XAfpX90kOjaLsdsHUYh-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XAfpX90kOjaLsdsHUYh-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-12" target="_XAfpX90kOjaLsdsHUYh-4">
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-12" target="_XAfpX90kOjaLsdsHUYh-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="550" as="sourcePoint" />
             <mxPoint x="510" y="520" as="targetPoint" />
