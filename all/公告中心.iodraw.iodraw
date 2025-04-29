@@ -14,7 +14,7 @@
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-6" value="请假申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-7" value="是否签到" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="270" width="80" height="80" as="geometry" />
@@ -60,7 +60,7 @@
         <mxCell id="_XAfpX90kOjaLsdsHUYh-43" value="补卡申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_XAfpX90kOjaLsdsHUYh-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-44" value="加班申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
