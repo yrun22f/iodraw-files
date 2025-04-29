@@ -22,7 +22,7 @@
         <mxCell id="lJuawyRsV2mIYNEXYaEo-6" value="是否需要报销" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lJuawyRsV2mIYNEXYaEo-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="lJuawyRsV2mIYNEXYaEo-8" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lJuawyRsV2mIYNEXYaEo-6" target="lJuawyRsV2mIYNEXYaEo-3">
@@ -96,6 +96,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
