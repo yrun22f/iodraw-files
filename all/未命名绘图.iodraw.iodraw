@@ -16,7 +16,7 @@
         <mxCell id="G2kU17yOA6e_WED_52gM-4" value="为员工发放薪资详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G2kU17yOA6e_WED_52gM-5" value="查看员工薪资发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G2kU17yOA6e_WED_52gM-5" value="查看员工薪资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G2kU17yOA6e_WED_52gM-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G2kU17yOA6e_WED_52gM-1" target="G2kU17yOA6e_WED_52gM-2">
