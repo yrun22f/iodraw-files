@@ -7,7 +7,7 @@
         <mxCell id="o5-Uh1s9GmEgLRDpiUVn-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="10" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o5-Uh1s9GmEgLRDpiUVn-3" value="进行会议预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o5-Uh1s9GmEgLRDpiUVn-3" value="会议预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o5-Uh1s9GmEgLRDpiUVn-4" value="查看会议室情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
