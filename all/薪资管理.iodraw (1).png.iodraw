@@ -109,7 +109,7 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-36" value="会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
