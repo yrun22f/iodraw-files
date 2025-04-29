@@ -13,7 +13,7 @@
         <mxCell id="lJuawyRsV2mIYNEXYaEo-3" value="提交报销申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lJuawyRsV2mIYNEXYaEo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lJuawyRsV2mIYNEXYaEo-4" value="网址导航" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-5" value="查看薪资情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-6" value="是否需要报销" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lJuawyRsV2mIYNEXYaEo-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
