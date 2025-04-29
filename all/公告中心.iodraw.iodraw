@@ -34,8 +34,16 @@
             <mxPoint x="440" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-10" target="_XAfpX90kOjaLsdsHUYh-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="310" />
+              <mxPoint x="480" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-10" value="进行签到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-12" value="是否需要补卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="480" width="80" height="80" as="geometry" />
