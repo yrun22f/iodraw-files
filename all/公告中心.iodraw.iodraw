@@ -7,6 +7,12 @@
         <mxCell id="_XAfpX90kOjaLsdsHUYh-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="20" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-2" value="考勤管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
