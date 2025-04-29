@@ -13,6 +13,9 @@
         <mxCell id="DQF6qNQB_3lHNLLAsJgR-3" value="是否进行签到" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="240" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DQF6qNQB_3lHNLLAsJgR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
