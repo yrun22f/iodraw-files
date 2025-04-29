@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-18" value="进行补卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-19" value="提交部门管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="380" width="120" height="60" as="geometry" />
@@ -84,6 +84,12 @@
         <mxCell id="_XAfpX90kOjaLsdsHUYh-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_XAfpX90kOjaLsdsHUYh-21">
           <mxGeometry x="0.0286" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="550" as="sourcePoint" />
+            <mxPoint x="640" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
