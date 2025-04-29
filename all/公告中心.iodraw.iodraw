@@ -95,6 +95,12 @@
             <mxPoint x="440" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-25" value="是否需要加班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
