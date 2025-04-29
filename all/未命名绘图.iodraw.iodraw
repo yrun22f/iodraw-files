@@ -11,7 +11,7 @@
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DPSAWJNRokqbEpwai7QS-4" value="查看是否有员工申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPSAWJNRokqbEpwai7QS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="60" height="120" as="geometry" />
