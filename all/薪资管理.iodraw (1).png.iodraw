@@ -19,7 +19,7 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-7" value="入职日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-8" value="部门" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-8" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9bCMNMOmiVamB7gPlTU-3" target="U9bCMNMOmiVamB7gPlTU-2">
