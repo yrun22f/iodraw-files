@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-33" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="364" y="840" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="760" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-43" value="补卡申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="120" height="60" as="geometry" />
@@ -128,6 +128,12 @@
             <Array as="points">
               <mxPoint x="560" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-51" target="_XAfpX90kOjaLsdsHUYh-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="690" as="sourcePoint" />
+            <mxPoint x="450" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
