@@ -10,6 +10,12 @@
         <mxCell id="OZfCL4R1SPSWBPUNSzIb-2" value="公告通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OZfCL4R1SPSWBPUNSzIb-3" value="是否需要发布公告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OZfCL4R1SPSWBPUNSzIb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
