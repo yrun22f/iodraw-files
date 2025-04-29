@@ -69,7 +69,13 @@
         <mxCell id="_XAfpX90kOjaLsdsHUYh-19" value="提交部门管理员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_XAfpX90kOjaLsdsHUYh-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-3" target="_XAfpX90kOjaLsdsHUYh-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
