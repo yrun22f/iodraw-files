@@ -61,7 +61,7 @@
             <mxPoint x="420" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-57" value="完成时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-57" value="审批意见" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-58" value="报销类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-66" value="报销金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-67" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-67" value="审批人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U9bCMNMOmiVamB7gPlTU-66" target="U9bCMNMOmiVamB7gPlTU-2">
