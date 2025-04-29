@@ -65,7 +65,7 @@
           <mxGeometry x="50" y="50" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="130" y="50" width="320" height="200" as="geometry" />
+          <mxGeometry x="120" y="50" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="160" height="200" as="geometry" />
