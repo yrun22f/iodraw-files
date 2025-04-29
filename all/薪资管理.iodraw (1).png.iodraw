@@ -28,6 +28,9 @@
         <mxCell id="DQF6qNQB_3lHNLLAsJgR-8" value="查看相关信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DQF6qNQB_3lHNLLAsJgR-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
