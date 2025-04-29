@@ -37,11 +37,14 @@
             <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2kU17yOA6e_WED_52gM-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2kU17yOA6e_WED_52gM-3">
+        <mxCell id="G2kU17yOA6e_WED_52gM-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G2kU17yOA6e_WED_52gM-3" target="G2kU17yOA6e_WED_52gM-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="320" as="sourcePoint" />
             <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G2kU17yOA6e_WED_52gM-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
