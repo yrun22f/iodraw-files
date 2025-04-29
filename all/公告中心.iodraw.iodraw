@@ -11,13 +11,13 @@
           <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-3" value="提交报销申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJuawyRsV2mIYNEXYaEo-6" value="是否需要报销" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="80" height="80" as="geometry" />
