@@ -118,10 +118,10 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-39" value="会议日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-40" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-40" value="会议室" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1361" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-41" value="会议主题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
