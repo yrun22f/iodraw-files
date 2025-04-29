@@ -20,7 +20,7 @@
           <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-10" value="进行签到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-12" value="是否需要申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="390" width="80" height="80" as="geometry" />
@@ -102,7 +102,7 @@
             <mxPoint x="450" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XAfpX90kOjaLsdsHUYh-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.43;exitY=0.906;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-7" target="_XAfpX90kOjaLsdsHUYh-10">
+        <mxCell id="_XAfpX90kOjaLsdsHUYh-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-7" target="_XAfpX90kOjaLsdsHUYh-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
