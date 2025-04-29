@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-1" value="&lt;b&gt;企业OA系统&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="505" y="-260" width="225" height="70" as="geometry" />
+          <mxGeometry x="527.5" y="-220" width="225" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-2" value="员工" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="-10" width="200" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="832.5" y="50" width="245" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="420" y="384" width="80" height="200" as="geometry" />
+          <mxGeometry x="915" y="50" width="85" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
