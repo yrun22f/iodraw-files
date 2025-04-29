@@ -16,6 +16,9 @@
         <mxCell id="o5-Uh1s9GmEgLRDpiUVn-5" value="查看是否有空会议室" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="300" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="o5-Uh1s9GmEgLRDpiUVn-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
