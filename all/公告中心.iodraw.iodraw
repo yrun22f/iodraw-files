@@ -17,7 +17,7 @@
           <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-7" value="是否签到" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-10" value="进行签到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="510" width="120" height="60" as="geometry" />
@@ -67,17 +67,6 @@
             <Array as="points">
               <mxPoint x="260" y="490" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_XAfpX90kOjaLsdsHUYh-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_XAfpX90kOjaLsdsHUYh-7" target="_XAfpX90kOjaLsdsHUYh-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="480" as="sourcePoint" />
-            <mxPoint x="450" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_XAfpX90kOjaLsdsHUYh-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_XAfpX90kOjaLsdsHUYh-49">
-          <mxGeometry x="-0.0816" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XAfpX90kOjaLsdsHUYh-51" value="提交管理员审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
