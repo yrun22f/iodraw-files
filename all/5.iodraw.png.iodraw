@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" scale="1" border="0" version="24.7.17">
   <diagram name="第 1 页" id="KmbS6wsdz9Qb2ebQDvmf">
-    <mxGraphModel dx="1774" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2601" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,19 +71,16 @@
           <mxGeometry x="210" y="50" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="680" y="-30" width="560" height="200" as="geometry" />
+          <mxGeometry x="-40" y="384" width="560" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="760" y="-30" width="400" height="200" as="geometry" />
+          <mxGeometry x="850" y="384" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-30" width="240" height="200" as="geometry" />
+          <mxGeometry x="550" y="384" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Atb_AMpKM3rlB9z0BPRR-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="350" y="360" width="80" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Atb_AMpKM3rlB9z0BPRR-34" value="&lt;b&gt;部门管理员&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="880" y="-90" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
