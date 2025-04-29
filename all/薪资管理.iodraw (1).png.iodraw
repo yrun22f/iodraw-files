@@ -10,7 +10,7 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-3" value="权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-4" value="名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-4" value="部门" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-5" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="U9bCMNMOmiVamB7gPlTU-7" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9bCMNMOmiVamB7gPlTU-8" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9bCMNMOmiVamB7gPlTU-8" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9bCMNMOmiVamB7gPlTU-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9bCMNMOmiVamB7gPlTU-3" target="U9bCMNMOmiVamB7gPlTU-2">
